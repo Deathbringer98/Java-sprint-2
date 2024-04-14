@@ -1,0 +1,11 @@
+"id","first_name","last_name","email","password","is_doctor"
+1,"Matt","Doe","Matt@example.com","$2a$10$CEGGnaSXIWxADbPeFrAI/uPbXsjIvtZDYQnF2wWRies7P3yFrIoFW",True
+2,"Joe","Doe","Joe@example.com","$2a$10$vilWOFBPo51a4zgwZe3EouVRF0b3tDqvCbyV9VdAODl51lASRFAxa",False
+3,"Eric","Doe","Eric@example.com","$2a$10$NXxMN7repr4ddjtKuU6OFOKvutVuM6a2pliGERedeqtQ1b.U/3CuG",False
+4,"David","Dan","David@example.com","$2a$10$AMR30TMUhov5JIR.V0ZHoe/4rmwVVfrs7tINv1iA2UM/iMXdIp3Um",False
+5,"John","Doe","John@example.com","$2a$10$EQeSIWkBF4cKHZUAI/EOmuLO5De.cnlSuqw8pkSVjXldLSVkc3L0C",False
+6,"Mike","Doen","Mike@example.com","$2a$10$2XLst6ZII113cSXjrSNe9uDPJqnw7nS4gW1xw4EgAzbRIZK.owKXe",False
+7,"Sherry","Rowan","Sherry@example.com","$2a$10$Ue3u8yrFpBKmawmSXxVpku/pK4Qg9XKrcHQ766Z50pVEFyvoac7Um",False
+8,"Arthas","Mineathil","Arthas@example.com","$2a$10$bffowUB5le1sl9s2rx8tz.cLn.zvzKaDCkPEQgeq9w4A00VjCXn76",False
+9,"Thrall","Dourtar","Thrall@example.com","$2a$10$oAReb5.PIHVln5S0NJURyOWjHohC0TSYMUONe7CWMipm6vwuK02Tm",False
+10,"Ben","Dover","Ben@example.com","$2a$10$kPKmjhUztcVM/md8QLq/NelT4JBrFUo6RBMjMqrLyqtglLTMe.UXO",False
