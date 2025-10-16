@@ -7,7 +7,7 @@ public class HealthData {
     private double height;
     private int steps;
     private int heartRate;
-    private Date date; // Consider using a date type like LocalDate for better date handling
+    private Date date; 
 
     // Constructor
     public HealthData(int id, int user_id, double weight, double height, int steps, int heartRate, Date date) {
